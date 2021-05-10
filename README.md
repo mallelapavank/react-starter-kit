@@ -1,3 +1,9 @@
+Clone the project and run the following command:
+
+### `npm install`
+
+This should install all required dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.\
